@@ -13,7 +13,7 @@ routers_list = [
     buyurtma_olish_router,
     mahsulot_qoshish_ochirish_korish_router,
     mahsulot_router,
-    echo_router,  # Add more handlers here if needed!
+    # echo_router,  # Add more handlers here if needed!
 ]
 
 __all__ = [
